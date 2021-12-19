@@ -326,7 +326,7 @@ export default function Home() {
                   </div>
                   <div>
                     <p className="text-lg text-gray-500 mt-4">Gobal</p>
-                    <p className="text-2xl">G-2 Chef's Knife with Sharpener</p>
+                    <p className="text-2xl">G-2 Chef is Knife with Sharpener</p>
                     <p className="text-2xl">$150</p>
                   </div>
                 </div>
@@ -347,9 +347,7 @@ export default function Home() {
                   </div>
                   <div>
                     <p className="text-lg text-gray-500 mt-4">Lodge</p>
-                    <p className="text-2xl">
-                      12" Seasoned Carbon Steel Skillet
-                    </p>
+                    <p className="text-2xl">12 Seasoned Carbon Steel Skillet</p>
                     <p className="text-2xl">$45</p>
                   </div>
                 </div>
