@@ -31,7 +31,7 @@ export default function Home() {
                   <button className="cursor-pointer">Work</button>
                   <button className="cursor-pointer">Travel</button>
                   <button className="cursor-pointer">Tech</button>
-                  <button className="text-red-500 cursor-pointer">
+                  <button className="text-red-600 cursor-pointer">
                     Gift Guid
                   </button>
                 </div>
@@ -653,7 +653,7 @@ export default function Home() {
         <div className="flex justify-center">
           <div className="w-[100%] max-w-[1300px]">
             <footer>
-              <div className="px-20">
+              <div className="px-8">
                 <div className="flex justify-between py-10">
                   <div className="flex text-center">
                     <p className="w-[110px] text-lg">About</p>
