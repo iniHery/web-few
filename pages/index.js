@@ -53,7 +53,7 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="grid grid-cols-3 grid-rows-2 gap-8 px-20 py-5 h-max ">
+              <div className="grid grid-cols-3 grid-rows-2 gap-8 px-16 py-5 h-max ">
                 <div className="h-auto group">
                   <div className="relative overflow-hidden">
                     <img
@@ -209,7 +209,7 @@ export default function Home() {
 
         <div className="flex justify-center">
           <div className="w-[100%] max-w-[1300px]">
-            <div className="px-20">
+            <div className="px-16">
               <div className="bg-cover bg-center bg-[url('/bg-1.jpg')] h-[90vh] rounded-[50px] flex items-center text-center justify-center text-white ">
                 <div>
                   <p className="text-xl opacity-50">COMING SOON</p>
@@ -230,7 +230,7 @@ export default function Home() {
               <div className="mt-[100px] h-[20vh]  flex items-center text-center justify-center">
                 <p className=" text-6xl ">Home</p>
               </div>
-              <div className="grid grid-cols-3 gap-8 px-20 py-5 h-max ">
+              <div className="grid grid-cols-3 gap-8 px-16 py-5 h-max ">
                 <div className="h-auto group">
                   <div className="relative overflow-hidden">
                     <img
@@ -309,7 +309,7 @@ export default function Home() {
               <div className="mt-[100px] h-[20vh]  flex items-center text-center justify-center">
                 <p className=" text-6xl ">Kitchen</p>
               </div>
-              <div className="grid grid-cols-3 gap-8 px-20 py-5 h-max ">
+              <div className="grid grid-cols-3 gap-8 px-16 py-5 h-max ">
                 <div className="h-auto group">
                   <div className="relative overflow-hidden">
                     <img
@@ -388,7 +388,7 @@ export default function Home() {
               <div className="mt-[100px] h-[20vh]  flex items-center text-center justify-center">
                 <p className=" text-6xl ">Work</p>
               </div>
-              <div className="grid grid-cols-3 gap-8 px-20 py-5 h-max ">
+              <div className="grid grid-cols-3 gap-8 px-16 py-5 h-max ">
                 <div className="h-auto group">
                   <div className="relative overflow-hidden">
                     <img
@@ -467,7 +467,7 @@ export default function Home() {
               <div className="mt-[100px] h-[20vh]  flex items-center text-center justify-center">
                 <p className=" text-6xl ">Travel</p>
               </div>
-              <div className="grid grid-cols-3 gap-8 px-20 py-5 h-max ">
+              <div className="grid grid-cols-3 gap-8 px-16 py-5 h-max ">
                 <div className="h-auto group">
                   <div className="relative overflow-hidden">
                     <img
@@ -546,7 +546,7 @@ export default function Home() {
               <div className="mt-[100px] h-[20vh]  flex items-center text-center justify-center">
                 <p className=" text-6xl ">Tech</p>
               </div>
-              <div className="grid grid-cols-3 gap-8 px-20 py-5 h-max ">
+              <div className="grid grid-cols-3 gap-8 px-16 py-5 h-max ">
                 <div className="h-auto group">
                   <div className="relative overflow-hidden">
                     <img
