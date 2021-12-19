@@ -630,7 +630,7 @@ export default function Home() {
                   </p>
                 </div>
                 <div className="w-96 m-auto">
-                  <div className="flex items-center h-14 bg-white  pl-10 pr-5 rounded-full justify-between cursor-pointer border border-gray-300 hover:border-sky-300 ">
+                  <div className="flex items-center h-14 bg-white pl-10 pr-5 rounded-full justify-between border border-gray-300 hover:border-sky-300">
                     <input
                       className="text-xl focus:outline-none focus:border-sky-500 focus:ring-sky-500"
                       type="email"
@@ -654,13 +654,15 @@ export default function Home() {
           <div className="w-[100%] max-w-[1300px]">
             <footer>
               <div className="px-8">
-                <div className="flex justify-between py-10">
+                <div className="flex justify-between py-10 gap-5">
                   <div className="flex text-center">
-                    <p className="w-[110px] text-lg">About</p>
-                    <p className="w-[110px] text-lg">Instagram</p>
-                    <p className="w-[110px] text-lg">Twitter</p>
-                    <p className="w-[110px] text-lg">Privacy</p>
-                    <p className="w-[110px] text-lg">Feedback</p>
+                    <p className="w-[110px] text-lg cursor-pointer">About</p>
+                    <p className="w-[110px] text-lg cursor-pointer">
+                      Instagram
+                    </p>
+                    <p className="w-[110px] text-lg cursor-pointer">Twitter</p>
+                    <p className="w-[110px] text-lg cursor-pointer">Privacy</p>
+                    <p className="w-[110px] text-lg cursor-pointer">Feedback</p>
                   </div>
                   <div>
                     <p className="w-auto text-lg">
